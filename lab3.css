@@ -1,0 +1,64 @@
+header ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+header ul li
+{
+    margin-top: 100px;
+    list-style: none;
+    margin-left: :20px;
+}
+header ul li a
+{
+    
+    text-decoration: none;
+    padding: 6px 35px;
+    color: #fff;
+    border-radius: 20px;
+    background:#ffa7a6;
+
+    z-index: 1000;
+}
+#logo{
+    margin-top: 70px;
+    margin-left: 70px;
+
+}
+section img
+{
+    position:absolute;
+    top:0;
+    left:0;
+    width:30%;
+    height:30%;
+    object-fit:cover;
+}
+section img#no2{
+    left:350px;
+}
+section img#no3{
+    left:750px;
+}
+section img#no4{
+    left:1050px;
+}
+#main{
+    width: 40%;
+    margin-left:390px;
+}
+div{
+    font-size: 5rem;
+  text-align: center;
+height:0.1vh;
+
+  color: #ffa7a6;
+ 
+     font-family: 'Niconne', cursive;
+  font-weight: 300;
+text-shadow: 5px 5px 0px #efa032;            
+           
+}
+
